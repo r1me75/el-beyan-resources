@@ -1,0 +1,114 @@
+{
+  "juzNo": 1,
+  "pageNo": 1,
+  "arCuzNo": "۱",
+  "arPageNo": "۱",
+  "quranAyats": [
+    {
+      "id": 1,
+      "surahId": 1,
+      "ayatId": 1,
+      "ayatNo": "١",
+      "pageNo": 1,
+      "ayatText": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ",
+      "ayatMealText": {
+        "tr": "Rahmân ve Rahîm olan Allah'ın ismiyle.",
+        "nl": "In de naam van Allah, de Erbarmer, de Meest Barmhartige.",
+        "en": "In the Name of Allah—the Most Compassionate, Most Merciful"
+      },
+      "surah": {
+        "surahId": 1,
+        "name": "Fâtiha",
+        "nameAr": "الْفَاتِحَةِ",
+        "revelationOrder": 5,
+        "verseCount": 7,
+        "juzNo": 1,
+        "firstPage": 1
+      }
+    },
+    {
+      "id": 2,
+      "surahId": 1,
+      "ayatId": 2,
+      "ayatNo": "٢",
+      "pageNo": 1,
+      "ayatText": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْـعَالَمٖينَۙ",
+      "ayatMealText": {
+        "tr": "Hamd o âlemlerin Rabbi,",
+        "nl": "Alle lof zij Allah, de Heer der Werelden.",
+        "en": "All praise is for Allah—Lord of all worlds"
+      },
+      "surah": null
+    },
+    {
+      "id": 3,
+      "surahId": 1,
+      "ayatId": 3,
+      "ayatNo": "٣",
+      "pageNo": 1,
+      "ayatText": "اَلرَّحْمٰنِ الرَّحٖيمِۙ",
+      "ayatMealText": {
+        "tr": "O Rahmân ve Rahim,",
+        "nl": "De Erbarmer, de Meest Barmhartige.",
+        "en": "the Most Compassionate, Most Merciful"
+      },
+      "surah": null
+    },
+    {
+      "id": 4,
+      "surahId": 1,
+      "ayatId": 4,
+      "ayatNo": "٤",
+      "pageNo": 1,
+      "ayatText": "مَالِكِ يَوْمِ الدّٖينِؕ",
+      "ayatMealText": {
+        "tr": "O, din gününün maliki Allah'ın.",
+        "nl": "De Heerser op de Dag des Oordeels.",
+        "en": "Master of the Day of Judgment"
+      },
+      "surah": null
+    },
+    {
+      "id": 5,
+      "surahId": 1,
+      "ayatId": 5,
+      "ayatNo": "٥",
+      "pageNo": 1,
+      "ayatText": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعٖينُؕ",
+      "ayatMealText": {
+        "tr": "Ancak sana ederiz kulluğu, ibadeti ve ancak senden dileriz yardımı, inayeti. (Ya Rab!).",
+        "nl": "U alleen aanbidden wij en U alleen vragen wij om hulp.",
+        "en": "You ˹alone˺ we worship and You ˹alone˺ we ask for help"
+      },
+      "surah": null
+    },
+    {
+      "id": 6,
+      "surahId": 1,
+      "ayatId": 6,
+      "ayatNo": "٦",
+      "pageNo": 1,
+      "ayatText": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقٖيمَۙ",
+      "ayatMealText": {
+        "tr": "Hidayet eyle bizi doğru yola,",
+        "nl": "Leid ons op het rechte Pad.",
+        "en": "Guide us along the Straight Path"
+      },
+      "surah": null
+    },
+    {
+      "id": 7,
+      "surahId": 1,
+      "ayatId": 7,
+      "ayatNo": "٧",
+      "pageNo": 1,
+      "ayatText": "صِرَاطَ الَّذٖينَ اَنْعَمْتَ عَلَيْهِمْۙ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓالّٖينَ",
+      "ayatMealText": {
+        "tr": "O kendilerine nimet verdiğin mutlu kimselerin yoluna; o gazaba uğramışların ve o sapmışların yoluna değil.",
+        "nl": "Het Pad van degenen aan wie U gunsten hebt geschonken, niet van degenen op wie de toorn rust en niet dat van de dwalenden.",
+        "en": "the Path of those You have blessed—not those You are displeased with, or those who are astray"
+      },
+      "surah": null
+    }
+  ]
+}
