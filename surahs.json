@@ -1,0 +1,914 @@
+[
+  {
+    "id": 1,
+    "nameAr": "الْفَاتِحَةِ",
+    "totalVerses": 7,
+    "juzNo": 1,
+    "firstPage": 1,
+    "revelation": "mecca"
+  },
+  {
+    "id": 2,
+    "nameAr": "الْبَقَرَةِ",
+    "totalVerses": 286,
+    "juzNo": 1,
+    "firstPage": 2,
+    "revelation": "medina"
+  },
+  {
+    "id": 3,
+    "nameAr": "اٰلِ عِمْرٰنَ",
+    "totalVerses": 200,
+    "juzNo": 3,
+    "firstPage": 50,
+    "revelation": "medina"
+  },
+  {
+    "id": 4,
+    "nameAr": "النِّسَاءِ",
+    "totalVerses": 176,
+    "juzNo": 4,
+    "firstPage": 77,
+    "revelation": "medina"
+  },
+  {
+    "id": 5,
+    "nameAr": "الْمَائِدَةِ",
+    "totalVerses": 120,
+    "juzNo": 6,
+    "firstPage": 106,
+    "revelation": "medina"
+  },
+  {
+    "id": 6,
+    "nameAr": "الْاَنْعَامِ",
+    "totalVerses": 165,
+    "juzNo": 7,
+    "firstPage": 128,
+    "revelation": "mecca"
+  },
+  {
+    "id": 7,
+    "nameAr": "الْاَعْرَافِ",
+    "totalVerses": 206,
+    "juzNo": 8,
+    "firstPage": 151,
+    "revelation": "mecca"
+  },
+  {
+    "id": 8,
+    "nameAr": "الْاَنْفَالِ",
+    "totalVerses": 75,
+    "juzNo": 9,
+    "firstPage": 177,
+    "revelation": "medina"
+  },
+  {
+    "id": 9,
+    "nameAr": "التَّوْبَةِ",
+    "totalVerses": 129,
+    "juzNo": 10,
+    "firstPage": 187,
+    "revelation": "medina"
+  },
+  {
+    "id": 10,
+    "nameAr": "يُونُسَ",
+    "totalVerses": 109,
+    "juzNo": 11,
+    "firstPage": 208,
+    "revelation": "mecca"
+  },
+  {
+    "id": 11,
+    "nameAr": "هُودٍ",
+    "totalVerses": 123,
+    "juzNo": 11,
+    "firstPage": 221,
+    "revelation": "mecca"
+  },
+  {
+    "id": 12,
+    "nameAr": "يُوسُفَ",
+    "totalVerses": 111,
+    "juzNo": 12,
+    "firstPage": 235,
+    "revelation": "mecca"
+  },
+  {
+    "id": 13,
+    "nameAr": "الرَّعْدِ",
+    "totalVerses": 43,
+    "juzNo": 12,
+    "firstPage": 249,
+    "revelation": "medina"
+  },
+  {
+    "id": 14,
+    "nameAr": "اِبْرٰه۪يمَ",
+    "totalVerses": 52,
+    "juzNo": 13,
+    "firstPage": 255,
+    "revelation": "mecca"
+  },
+  {
+    "id": 15,
+    "nameAr": "الْحِجْرِ",
+    "totalVerses": 99,
+    "juzNo": 14,
+    "firstPage": 262,
+    "revelation": "mecca"
+  },
+  {
+    "id": 16,
+    "nameAr": "النَّحْلِ",
+    "totalVerses": 128,
+    "juzNo": 14,
+    "firstPage": 267,
+    "revelation": "mecca"
+  },
+  {
+    "id": 17,
+    "nameAr": "الْاِسْرَاۤءِ",
+    "totalVerses": 111,
+    "juzNo": 15,
+    "firstPage": 282,
+    "revelation": "mecca"
+  },
+  {
+    "id": 18,
+    "nameAr": "الْكَهْفِ",
+    "totalVerses": 110,
+    "juzNo": 15,
+    "firstPage": 293,
+    "revelation": "mecca"
+  },
+  {
+    "id": 19,
+    "nameAr": "مَرْيَمَ",
+    "totalVerses": 98,
+    "juzNo": 16,
+    "firstPage": 305,
+    "revelation": "mecca"
+  },
+  {
+    "id": 20,
+    "nameAr": "طٰهٰ",
+    "totalVerses": 135,
+    "juzNo": 16,
+    "firstPage": 312,
+    "revelation": "mecca"
+  },
+  {
+    "id": 21,
+    "nameAr": "الْاَنْبِيَاءِ",
+    "totalVerses": 112,
+    "juzNo": 17,
+    "firstPage": 322,
+    "revelation": "mecca"
+  },
+  {
+    "id": 22,
+    "nameAr": "الْحَجِّ",
+    "totalVerses": 78,
+    "juzNo": 17,
+    "firstPage": 332,
+    "revelation": "medina"
+  },
+  {
+    "id": 23,
+    "nameAr": "الْمُؤْمِنُونَ",
+    "totalVerses": 118,
+    "juzNo": 18,
+    "firstPage": 342,
+    "revelation": "mecca"
+  },
+  {
+    "id": 24,
+    "nameAr": "النُّورِ",
+    "totalVerses": 64,
+    "juzNo": 18,
+    "firstPage": 350,
+    "revelation": "medina"
+  },
+  {
+    "id": 25,
+    "nameAr": "الْفُرْقَانِ",
+    "totalVerses": 77,
+    "juzNo": 18,
+    "firstPage": 359,
+    "revelation": "mecca"
+  },
+  {
+    "id": 26,
+    "nameAr": "الشُّعَرَاءِ",
+    "totalVerses": 227,
+    "juzNo": 19,
+    "firstPage": 367,
+    "revelation": "mecca"
+  },
+  {
+    "id": 27,
+    "nameAr": "النَّمْلِ",
+    "totalVerses": 93,
+    "juzNo": 19,
+    "firstPage": 377,
+    "revelation": "mecca"
+  },
+  {
+    "id": 28,
+    "nameAr": "الْقَصَصِ",
+    "totalVerses": 88,
+    "juzNo": 20,
+    "firstPage": 385,
+    "revelation": "mecca"
+  },
+  {
+    "id": 29,
+    "nameAr": "الْعَنْكَبُوتِ",
+    "totalVerses": 69,
+    "juzNo": 20,
+    "firstPage": 396,
+    "revelation": "mecca"
+  },
+  {
+    "id": 30,
+    "nameAr": "الرُّومِ",
+    "totalVerses": 60,
+    "juzNo": 21,
+    "firstPage": 404,
+    "revelation": "mecca"
+  },
+  {
+    "id": 31,
+    "nameAr": "لُقْمٰانَ",
+    "totalVerses": 34,
+    "juzNo": 21,
+    "firstPage": 411,
+    "revelation": "mecca"
+  },
+  {
+    "id": 32,
+    "nameAr": "السَّجْدَةِ",
+    "totalVerses": 30,
+    "juzNo": 21,
+    "firstPage": 415,
+    "revelation": "mecca"
+  },
+  {
+    "id": 33,
+    "nameAr": "الْاَحْزَابِ",
+    "totalVerses": 73,
+    "juzNo": 21,
+    "firstPage": 418,
+    "revelation": "medina"
+  },
+  {
+    "id": 34,
+    "nameAr": "سَبَأٍ",
+    "totalVerses": 54,
+    "juzNo": 22,
+    "firstPage": 428,
+    "revelation": "mecca"
+  },
+  {
+    "id": 35,
+    "nameAr": "فَاطِرٍ",
+    "totalVerses": 45,
+    "juzNo": 22,
+    "firstPage": 434,
+    "revelation": "mecca"
+  },
+  {
+    "id": 36,
+    "nameAr": "يٰسۤ",
+    "totalVerses": 83,
+    "juzNo": 22,
+    "firstPage": 440,
+    "revelation": "mecca"
+  },
+  {
+    "id": 37,
+    "nameAr": "الصَّاۤفَّاتِ",
+    "totalVerses": 182,
+    "juzNo": 23,
+    "firstPage": 446,
+    "revelation": "mecca"
+  },
+  {
+    "id": 38,
+    "nameAr": "صۤ",
+    "totalVerses": 88,
+    "juzNo": 23,
+    "firstPage": 453,
+    "revelation": "mecca"
+  },
+  {
+    "id": 39,
+    "nameAr": "الزُّمَرِ",
+    "totalVerses": 75,
+    "juzNo": 23,
+    "firstPage": 458,
+    "revelation": "mecca"
+  },
+  {
+    "id": 40,
+    "nameAr": "الْمُؤْمِنِ",
+    "totalVerses": 85,
+    "juzNo": 24,
+    "firstPage": 467,
+    "revelation": "mecca"
+  },
+  {
+    "id": 41,
+    "nameAr": "فُصِّلَتْ",
+    "totalVerses": 54,
+    "juzNo": 24,
+    "firstPage": 477,
+    "revelation": "mecca"
+  },
+  {
+    "id": 42,
+    "nameAr": "الشُّورٰى",
+    "totalVerses": 53,
+    "juzNo": 25,
+    "firstPage": 483,
+    "revelation": "mecca"
+  },
+  {
+    "id": 43,
+    "nameAr": "الزُّخْرُفِ",
+    "totalVerses": 89,
+    "juzNo": 25,
+    "firstPage": 489,
+    "revelation": "mecca"
+  },
+  {
+    "id": 44,
+    "nameAr": "الدُّخَانِ",
+    "totalVerses": 59,
+    "juzNo": 25,
+    "firstPage": 496,
+    "revelation": "mecca"
+  },
+  {
+    "id": 45,
+    "nameAr": "الْجَاثِيَةِ",
+    "totalVerses": 37,
+    "juzNo": 25,
+    "firstPage": 499,
+    "revelation": "mecca"
+  },
+  {
+    "id": 46,
+    "nameAr": "الْاَحْقَافِ",
+    "totalVerses": 35,
+    "juzNo": 26,
+    "firstPage": 502,
+    "revelation": "mecca"
+  },
+  {
+    "id": 47,
+    "nameAr": "مُحَمَّدٍ",
+    "totalVerses": 38,
+    "juzNo": 26,
+    "firstPage": 507,
+    "revelation": "medina"
+  },
+  {
+    "id": 48,
+    "nameAr": "الْفَتْحِ",
+    "totalVerses": 29,
+    "juzNo": 26,
+    "firstPage": 511,
+    "revelation": "medina"
+  },
+  {
+    "id": 49,
+    "nameAr": "الْحُجُرَاتِ",
+    "totalVerses": 18,
+    "juzNo": 26,
+    "firstPage": 515,
+    "revelation": "medina"
+  },
+  {
+    "id": 50,
+    "nameAr": "قۤ",
+    "totalVerses": 45,
+    "juzNo": 26,
+    "firstPage": 518,
+    "revelation": "mecca"
+  },
+  {
+    "id": 51,
+    "nameAr": "الذَّارِيَاتِ",
+    "totalVerses": 60,
+    "juzNo": 26,
+    "firstPage": 520,
+    "revelation": "mecca"
+  },
+  {
+    "id": 52,
+    "nameAr": "الطُّورِ",
+    "totalVerses": 49,
+    "juzNo": 27,
+    "firstPage": 523,
+    "revelation": "mecca"
+  },
+  {
+    "id": 53,
+    "nameAr": "النَّجْمِ",
+    "totalVerses": 62,
+    "juzNo": 27,
+    "firstPage": 526,
+    "revelation": "mecca"
+  },
+  {
+    "id": 54,
+    "nameAr": "الْقَمَرِ",
+    "totalVerses": 55,
+    "juzNo": 27,
+    "firstPage": 528,
+    "revelation": "mecca"
+  },
+  {
+    "id": 55,
+    "nameAr": "الرَّحْمٰنِ",
+    "totalVerses": 78,
+    "juzNo": 27,
+    "firstPage": 531,
+    "revelation": "medina"
+  },
+  {
+    "id": 56,
+    "nameAr": "الْوَاقِعَةِ",
+    "totalVerses": 96,
+    "juzNo": 27,
+    "firstPage": 534,
+    "revelation": "mecca"
+  },
+  {
+    "id": 57,
+    "nameAr": "الْحَد۪يدِ",
+    "totalVerses": 29,
+    "juzNo": 27,
+    "firstPage": 537,
+    "revelation": "medina"
+  },
+  {
+    "id": 58,
+    "nameAr": "الْمُجَادَلَةِ",
+    "totalVerses": 22,
+    "juzNo": 28,
+    "firstPage": 542,
+    "revelation": "medina"
+  },
+  {
+    "id": 59,
+    "nameAr": "الْحَشْرِ",
+    "totalVerses": 24,
+    "juzNo": 28,
+    "firstPage": 545,
+    "revelation": "medina"
+  },
+  {
+    "id": 60,
+    "nameAr": "الْمُمْتَحِنَةِ",
+    "totalVerses": 13,
+    "juzNo": 28,
+    "firstPage": 549,
+    "revelation": "medina"
+  },
+  {
+    "id": 61,
+    "nameAr": "الصَّفِّ",
+    "totalVerses": 14,
+    "juzNo": 28,
+    "firstPage": 551,
+    "revelation": "medina"
+  },
+  {
+    "id": 62,
+    "nameAr": "الْجُمُعَةِ",
+    "totalVerses": 11,
+    "juzNo": 28,
+    "firstPage": 553,
+    "revelation": "medina"
+  },
+  {
+    "id": 63,
+    "nameAr": "الْمُنَافِقُونَ",
+    "totalVerses": 11,
+    "juzNo": 28,
+    "firstPage": 554,
+    "revelation": "medina"
+  },
+  {
+    "id": 64,
+    "nameAr": "التَّغَابُنِ",
+    "totalVerses": 18,
+    "juzNo": 28,
+    "firstPage": 556,
+    "revelation": "medina"
+  },
+  {
+    "id": 65,
+    "nameAr": "الطَّلَاقِ",
+    "totalVerses": 12,
+    "juzNo": 28,
+    "firstPage": 558,
+    "revelation": "medina"
+  },
+  {
+    "id": 66,
+    "nameAr": "التَّحْر۪يمِ",
+    "totalVerses": 12,
+    "juzNo": 28,
+    "firstPage": 560,
+    "revelation": "medina"
+  },
+  {
+    "id": 67,
+    "nameAr": "الْمُلْكِ",
+    "totalVerses": 30,
+    "juzNo": 29,
+    "firstPage": 562,
+    "revelation": "mecca"
+  },
+  {
+    "id": 68,
+    "nameAr": "الْقَلَمِ",
+    "totalVerses": 52,
+    "juzNo": 29,
+    "firstPage": 564,
+    "revelation": "mecca"
+  },
+  {
+    "id": 69,
+    "nameAr": "الْحَاقَّةِ",
+    "totalVerses": 52,
+    "juzNo": 29,
+    "firstPage": 566,
+    "revelation": "mecca"
+  },
+  {
+    "id": 70,
+    "nameAr": "الْمَعَارِجِ",
+    "totalVerses": 44,
+    "juzNo": 29,
+    "firstPage": 568,
+    "revelation": "mecca"
+  },
+  {
+    "id": 71,
+    "nameAr": "نُوحٍ",
+    "totalVerses": 28,
+    "juzNo": 29,
+    "firstPage": 570,
+    "revelation": "mecca"
+  },
+  {
+    "id": 72,
+    "nameAr": "الْجِنِّ",
+    "totalVerses": 28,
+    "juzNo": 29,
+    "firstPage": 572,
+    "revelation": "mecca"
+  },
+  {
+    "id": 73,
+    "nameAr": "الْمُزَّمِّلِ",
+    "totalVerses": 20,
+    "juzNo": 29,
+    "firstPage": 574,
+    "revelation": "mecca"
+  },
+  {
+    "id": 74,
+    "nameAr": "الْمُدَّثِّرِ",
+    "totalVerses": 56,
+    "juzNo": 29,
+    "firstPage": 575,
+    "revelation": "mecca"
+  },
+  {
+    "id": 75,
+    "nameAr": "الْقِيٰمَةِ",
+    "totalVerses": 40,
+    "juzNo": 29,
+    "firstPage": 577,
+    "revelation": "mecca"
+  },
+  {
+    "id": 76,
+    "nameAr": "الْاِنْسَانِ",
+    "totalVerses": 31,
+    "juzNo": 29,
+    "firstPage": 578,
+    "revelation": "medina"
+  },
+  {
+    "id": 77,
+    "nameAr": "الْمُرْسَلَاتِ",
+    "totalVerses": 50,
+    "juzNo": 29,
+    "firstPage": 580,
+    "revelation": "mecca"
+  },
+  {
+    "id": 78,
+    "nameAr": "النَّبَأِ",
+    "totalVerses": 40,
+    "juzNo": 30,
+    "firstPage": 582,
+    "revelation": "mecca"
+  },
+  {
+    "id": 79,
+    "nameAr": "النَّازِعَاتِ",
+    "totalVerses": 46,
+    "juzNo": 30,
+    "firstPage": 583,
+    "revelation": "mecca"
+  },
+  {
+    "id": 80,
+    "nameAr": "عَبَسَ",
+    "totalVerses": 42,
+    "juzNo": 30,
+    "firstPage": 585,
+    "revelation": "mecca"
+  },
+  {
+    "id": 81,
+    "nameAr": "التَّكْو۪يرِ",
+    "totalVerses": 29,
+    "juzNo": 30,
+    "firstPage": 586,
+    "revelation": "mecca"
+  },
+  {
+    "id": 82,
+    "nameAr": "الْاِنْفِطَارِ",
+    "totalVerses": 19,
+    "juzNo": 30,
+    "firstPage": 587,
+    "revelation": "mecca"
+  },
+  {
+    "id": 83,
+    "nameAr": "الْمُطَفِّف۪ينَ",
+    "totalVerses": 36,
+    "juzNo": 30,
+    "firstPage": 588,
+    "revelation": "mecca"
+  },
+  {
+    "id": 84,
+    "nameAr": "الْاِنْشِقَاقِ",
+    "totalVerses": 25,
+    "juzNo": 30,
+    "firstPage": 589,
+    "revelation": "mecca"
+  },
+  {
+    "id": 85,
+    "nameAr": "الْبُرُوجِ",
+    "totalVerses": 22,
+    "juzNo": 30,
+    "firstPage": 590,
+    "revelation": "mecca"
+  },
+  {
+    "id": 86,
+    "nameAr": "الطَّارِقِ",
+    "totalVerses": 17,
+    "juzNo": 30,
+    "firstPage": 591,
+    "revelation": "mecca"
+  },
+  {
+    "id": 87,
+    "nameAr": "الْاَعْلٰى",
+    "totalVerses": 19,
+    "juzNo": 30,
+    "firstPage": 592,
+    "revelation": "mecca"
+  },
+  {
+    "id": 88,
+    "nameAr": "الْغَاشِيَةِ",
+    "totalVerses": 26,
+    "juzNo": 30,
+    "firstPage": 592,
+    "revelation": "mecca"
+  },
+  {
+    "id": 89,
+    "nameAr": "الْفَجْرِ",
+    "totalVerses": 30,
+    "juzNo": 30,
+    "firstPage": 593,
+    "revelation": "mecca"
+  },
+  {
+    "id": 90,
+    "nameAr": "الْبَلَدِ",
+    "totalVerses": 20,
+    "juzNo": 30,
+    "firstPage": 594,
+    "revelation": "mecca"
+  },
+  {
+    "id": 91,
+    "nameAr": "الشَّمْسِ",
+    "totalVerses": 15,
+    "juzNo": 30,
+    "firstPage": 595,
+    "revelation": "mecca"
+  },
+  {
+    "id": 92,
+    "nameAr": "الَّيْلِ",
+    "totalVerses": 21,
+    "juzNo": 30,
+    "firstPage": 596,
+    "revelation": "mecca"
+  },
+  {
+    "id": 93,
+    "nameAr": "الضُّحٰى",
+    "totalVerses": 11,
+    "juzNo": 30,
+    "firstPage": 596,
+    "revelation": "mecca"
+  },
+  {
+    "id": 94,
+    "nameAr": "الْاِنْشِرَاحِ",
+    "totalVerses": 8,
+    "juzNo": 30,
+    "firstPage": 597,
+    "revelation": "mecca"
+  },
+  {
+    "id": 95,
+    "nameAr": "التّ۪ينِ",
+    "totalVerses": 8,
+    "juzNo": 30,
+    "firstPage": 597,
+    "revelation": "mecca"
+  },
+  {
+    "id": 96,
+    "nameAr": "الْعَلَقِ",
+    "totalVerses": 19,
+    "juzNo": 30,
+    "firstPage": 598,
+    "revelation": "mecca"
+  },
+  {
+    "id": 97,
+    "nameAr": "الْقَدْرِ",
+    "totalVerses": 5,
+    "juzNo": 30,
+    "firstPage": 599,
+    "revelation": "mecca"
+  },
+  {
+    "id": 98,
+    "nameAr": "الْبَيِّنَةِ",
+    "totalVerses": 8,
+    "juzNo": 30,
+    "firstPage": 599,
+    "revelation": "medina"
+  },
+  {
+    "id": 99,
+    "nameAr": "الزِّلْزَالِ",
+    "totalVerses": 8,
+    "juzNo": 30,
+    "firstPage": 600,
+    "revelation": "medina"
+  },
+  {
+    "id": 100,
+    "nameAr": "الْعَادِيَاتِ",
+    "totalVerses": 11,
+    "juzNo": 30,
+    "firstPage": 600,
+    "revelation": "mecca"
+  },
+  {
+    "id": 101,
+    "nameAr": "الْقَارِعَةِ",
+    "totalVerses": 11,
+    "juzNo": 30,
+    "firstPage": 601,
+    "revelation": "mecca"
+  },
+  {
+    "id": 102,
+    "nameAr": "التَّكَاثُرِ",
+    "totalVerses": 8,
+    "juzNo": 30,
+    "firstPage": 601,
+    "revelation": "mecca"
+  },
+  {
+    "id": 103,
+    "nameAr": "الْعَصْرِ",
+    "totalVerses": 3,
+    "juzNo": 30,
+    "firstPage": 602,
+    "revelation": "mecca"
+  },
+  {
+    "id": 104,
+    "nameAr": "الْهُمَزَةِ",
+    "totalVerses": 9,
+    "juzNo": 30,
+    "firstPage": 602,
+    "revelation": "mecca"
+  },
+  {
+    "id": 105,
+    "nameAr": "الْف۪يلِ",
+    "totalVerses": 5,
+    "juzNo": 30,
+    "firstPage": 602,
+    "revelation": "mecca"
+  },
+  {
+    "id": 106,
+    "nameAr": "قُرَيْشٍ",
+    "totalVerses": 4,
+    "juzNo": 30,
+    "firstPage": 603,
+    "revelation": "mecca"
+  },
+  {
+    "id": 107,
+    "nameAr": "الْمَاعُونِ",
+    "totalVerses": 7,
+    "juzNo": 30,
+    "firstPage": 603,
+    "revelation": "mecca"
+  },
+  {
+    "id": 108,
+    "nameAr": "الْكَوْثَرِ",
+    "totalVerses": 3,
+    "juzNo": 30,
+    "firstPage": 603,
+    "revelation": "mecca"
+  },
+  {
+    "id": 109,
+    "nameAr": "الْكَافِرُونَ",
+    "totalVerses": 6,
+    "juzNo": 30,
+    "firstPage": 604,
+    "revelation": "mecca"
+  },
+  {
+    "id": 110,
+    "nameAr": "النَّصْرِ",
+    "totalVerses": 3,
+    "juzNo": 30,
+    "firstPage": 604,
+    "revelation": "medina"
+  },
+  {
+    "id": 111,
+    "nameAr": "الْمَسَدِ",
+    "totalVerses": 5,
+    "juzNo": 30,
+    "firstPage": 604,
+    "revelation": "mecca"
+  },
+  {
+    "id": 112,
+    "nameAr": "الْاِخْلَاصِ",
+    "totalVerses": 4,
+    "juzNo": 30,
+    "firstPage": 605,
+    "revelation": "mecca"
+  },
+  {
+    "id": 113,
+    "nameAr": "الْفَلَقِ",
+    "totalVerses": 5,
+    "juzNo": 30,
+    "firstPage": 605,
+    "revelation": "mecca"
+  },
+  {
+    "id": 114,
+    "nameAr": "النَّاسِ",
+    "totalVerses": 6,
+    "juzNo": 30,
+    "firstPage": 605,
+    "revelation": "mecca"
+  }
+]

@@ -1,0 +1,7 @@
+el-beyan-backup.db
+el-beyan.db
+node_modules
+script.sql
+index.js
+package.json
+package-lock.json
